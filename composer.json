@@ -1,0 +1,24 @@
+{
+	"name"       : "cvo-technologies/croogo-admin-lte-theme",
+	"description": "CVO-Technologies AdminLTE admin theme",
+	"type"       : "croogo-theme",
+	"license"    : "proprietary",
+	"authors"    : [
+		{
+			"name"    : "Marlin Cremers",
+			"email"   : "m.cremers@cvo-technologies.com",
+			"homepage": "http://marlinc.nl",
+			"role"    : "Developer"
+		},
+		{
+			"name"    : "Abdullah Almsaeed",
+			"role"    : "Original developer"
+		}
+	],
+	"require"    : {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "AdminLTE"
+	}
+}
